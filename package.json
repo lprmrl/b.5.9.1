@@ -1,0 +1,19 @@
+{
+  "name": "project_b951",
+  "version": "1.0.0",
+  "description": "tasck b9.5.1",
+  "main": "b9-5-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lprmrl/b.5.9.1.git"
+  },
+  "author": "lprmrl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lprmrl/b.5.9.1/issues"
+  },
+  "homepage": "https://github.com/lprmrl/b.5.9.1#readme"
+}
